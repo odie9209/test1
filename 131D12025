@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【公告】115學年度碩士班(甄試7名)簡章公告</title>
+    <style>
+        body{ background-color: #f0f0f0; }
+        #AA { margin: 0 80px; font-family: "Microsoft JhengHei", sans-serif; font-size: 20px; transform: scale(1.5); }
+        .BBB{ font-size: 16px; text-decoration: none; }
+        hr { color: royalblue; }
+        h3 { text-align: center; }
+        .CCC { text-indent: 2em; }
+        #DDD { width: 75%; }
+        footer { text-align: center; }
+    </style>
+</head>
+<body>
+    <div id="AA">
+        <header>
+            <h1>【公告】115學年度碩士班(甄試7名)簡章公告</h1>
+            <hr>
+        </header>
+
+        <h3>•115學年度碩士班甄試（7名）招生簡章：(一律採用網路報名)</h3>
+        <p class="CCC">
+            <a href="https://ahedl.ntunhs.edu.tw/p/406-1052-78516,r2486.php?Lang=zh-tw" target="_blank" rel="noopener">
+                https://ahedl.ntunhs.edu.tw/p/406-1052-78516,r2486.php?Lang=zh-tw
+            </a>
+        </p>
+
+        <h3>•網路報名與報名費繳交時間：114年09月03日(星期三)09:00起 至 114年10月10日(星期五)23:59止</h3>
+        <p>114年9月25日(星期三)至10月10日(星期五)止</p>
+
+        <h3>報名網址:</h3>
+        <p class="CCC">
+            <a href="https://system8.ntunhs.edu.tw/est/" target="_blank" rel="noopener">https://system8.ntunhs.edu.tw/est/</a>
+        </p>
+
+        <h3>•查詢網址：(相關報名及繳費成功查詢）：</h3>
+        <p class="CCC">
+            <a href="https://system8.ntunhs.edu.tw/estq/" target="_blank" rel="noopener">https://system8.ntunhs.edu.tw/estq/</a>
+        </p>
+
+        <h3>資料審查繳交：至114年10月10日(星期五)前之郵戳為憑（含10月10日）</h3>
+        <p>請以限時掛號郵寄方式繳交(請保留掛號收執聯)。</p>
+
+        <h3>•本校另提供經文不利考生應試補助：</h3>
+        <p>補助對象與應備妥文件請參考招生簡章【附錄十五】之經文不利招生補助申請表，符合申請資格者請填寫並備妥相關證明於面試當日09:30-15:00(中午不休息)，至本校行政大樓二樓的試務辦公室辦理。(服務專線電話：02-28227101#2307)</p>
+
+        <p><img src="https://ahedl.ntunhs.edu.tw/var/file/52/1052/pictures/232/m/mczh-tw700x700_large15862_899598870586.png" alt="" style="max-width:100%;height:auto;"></p>
+
+        <footer>
+            <p>國立臺北護理健康大學 醫護教育暨數位學習系<br>
+            地址：112303臺北市北投區明德路365號 親仁樓 B304<br>
+            電話：02-28227101 分機3206、3201 傳真：02-2821-2143</p>
+            <p>此網頁為考試練習使用，若有侵權請告知</p>
+            <p>製作者：賴逸帆 (131D12025)</p>
+        </footer>
+    </div>
+</body>
+</html>
